@@ -2,6 +2,7 @@
     padding: 0px;
     margin: 0px;
     border: 0px;
+    box-sizing: border-box;
 }
 
 body{
@@ -10,6 +11,7 @@ body{
     font-size: 13px;
     direction: rtl;
     background: linear-gradient( darkblue 0px,whitesmoke 500px,white 100%);
+    box-sizing: border-box;
 }
 body a {
     color: white;
@@ -29,7 +31,7 @@ body a {
     background-color: green;
     width: 1010px;
     height: 140px;
-    font-size: 80px;
+    font-size: 90px;
     color: red;
     text-align: center;
     padding-top: 10px;
